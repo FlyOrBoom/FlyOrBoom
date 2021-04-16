@@ -43,7 +43,15 @@ I have been designing and programming websites and apps for over 3 years. I’ve
 - Adobe Photoshop, Illustrator, Animate, and InDesign
 - InkScape, Krita, and Blender
 
-### Contact
+## Hobbies
+
+- Acrylic painting
+- Mathematical art
+- Chinese calligraphy
+- Chess
+- Lakes
+
+## Contact
 
 I am available for remote freelance web design and development.
 
