@@ -6,7 +6,11 @@ I have been designing and programming websites and apps for over 3 years. I’ve
 
 ## Experience
 
+2021: Competed solo in the Cybersecurity event at Science Olympiad's Southern California regionals and states tournaments, and got 2nd and 5th place respectifully. (Cryptography/HTML/JavaScript/CSS/Python)
+
 2020–2021: Lead developer of [Aces](https://internal.ahs.app/editor), a content management system for ArcadiaHigh School’s mobile app and news feed. (HTML/CSS/JavaScript/Bash/Firebase)
+
+2020–2021: Participated in the design of Arcadia High School's 2021 yearbook at AHS Advanced Journalism and Design. (Blender/Illustrator/PhotoShop/InDesign/Python)
 
 2020: Creator of [Mercator Studio](https://x-ing.space/mercator), a browser extension that applies camera effects to Google Meet. (HTML/CSS/JavaScript/Bash)
 
