@@ -6,7 +6,7 @@ I have been designing and programming websites and apps for over 3 years. I’ve
 
 ## Experience
 
-2021: Competed solo in the Cybersecurity event at Science Olympiad's Southern California regionals and states tournaments, and got 2nd and 5th place respectifully. (Cryptography/HTML/JavaScript/CSS/Python)
+2021: Competed solo in the Cybersecurity event at Science Olympiad's Southern California regionals and states tournaments, reaching 2nd and 5th place respectifully. (Cryptography/HTML/JavaScript/CSS/Python)
 
 2020–2021: Lead developer of [Aces](https://internal.ahs.app/editor), a content management system for Arcadia High School's mobile app and news feed. (HTML/CSS/JavaScript/Bash/Firebase)
 
