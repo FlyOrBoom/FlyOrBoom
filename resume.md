@@ -40,8 +40,8 @@ I have been designing and programming websites and apps for over 3 years. I’ve
 
 ### Design
 
-- Adobe Photoshop, Illustrator, Animate, and InDesign
-- InkScape, Krita, and Blender
+- Adobe Photoshop, Lightroom, Illustrator, Animate, and InDesign
+- InkScape, Krita, Darktable, and Blender
 
 ## Hobbies
 
