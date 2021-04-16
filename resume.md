@@ -32,10 +32,11 @@ I have been designing and programming websites and apps for over 3 years. I’ve
 
 - Modern HTML, CSS, and JavaScript
 - Vue.js, React, and HyperApp frameworks
-- WebGL and Three.js renderingBrowser extensions
+- WebGL and Three.js rendering
+- Browser extensions
 - Java/Kotlin Android app development
-- Firebase integration
-- Node.js and Deno
+- Firebase hosting, databases, and functions
+- Bash, Jq, Python, Node.js and Deno
 - Discord and Slack bots
 
 ### Design
