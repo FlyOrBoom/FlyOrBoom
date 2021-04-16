@@ -10,7 +10,7 @@ I have been designing and programming websites and apps for over 3 years. I’ve
 
 2020–2021: Lead developer of [Aces](https://internal.ahs.app/editor), a content management system for Arcadia High School's mobile app and news feed. (HTML/CSS/JavaScript/Bash/Firebase)
 
-2020–2021: Co-designer of Arcadia High School's 2021 yearbook at AHS Advanced Journalism and Design. (Blender/Illustrator/PhotoShop/InDesign/Python)
+2020–2021: Designer for Arcadia High School's 2021 yearbook at AHS Advanced Journalism and Design. (Blender/Illustrator/PhotoShop/InDesign/Python)
 
 2020–2021: Creator of [Mercator Studio](https://x-ing.space/mercator), a browser extension that applies camera effects to Google Meet. (HTML/CSS/JavaScript/Bash)
 
@@ -18,7 +18,7 @@ I have been designing and programming websites and apps for over 3 years. I’ve
 
 2018–2021: Co-captain, programmer, and designer for the FTC 15303 robotics team. (Java/Kotlin/OnShape/Blender)
 
-2020: Lead graphics developer and designer of [Koidoro](https://x-ing.space/koipond), a studying app centeredaround kois in a pond. (WebGL/JavaScript/Java/Kotlin/Bash)
+2020: Lead graphics programmer and designer for [Koidoro](https://x-ing.space/koipond), a studying app centered around kois in a pond. (WebGL/JavaScript/Java/Kotlin/Bash)
 
 2019: Creator of FTC 15303’s [website](https://robotics.majorstem.org). (HTML/CSS/JavaScript)
 
