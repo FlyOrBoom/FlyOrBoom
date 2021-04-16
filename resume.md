@@ -16,9 +16,9 @@ I have been designing and programming websites and apps for over 3 years. I’ve
 
 2020–2021: Creator of [RippleWeave](https://x-ing.space/rippleweave), a colorful 2D function grapher and generative mathematical art project. (HTML/CSS/JavaScript/GLSL)
 
-2020: Lead graphics developer and designer of [Koidoro](https://x-ing.space/koipond), a studying app centeredaround kois in a pond. (WebGL/JavaScript/Java/Kotlin/Bash)
+2018–2021: Co-captain, programmer, and designer for the FTC 15303 robotics team. (Java/Kotlin/OnShape/Blender)
 
-2018–2021: Co-captain and programmer for the FTC 15303 robotics team. (Java/Kotlin)
+2020: Lead graphics developer and designer of [Koidoro](https://x-ing.space/koipond), a studying app centeredaround kois in a pond. (WebGL/JavaScript/Java/Kotlin/Bash)
 
 2019: Creator of FTC 15303’s [website](https://robotics.majorstem.org). (HTML/CSS/JavaScript)
 
