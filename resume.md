@@ -12,7 +12,7 @@ I have been designing and programming websites and apps for over 3 years. I’ve
 
 2020: Lead graphics developer and designer of Koidoro, a studying app centeredaround kois in a pond. (WebGL/JavaScript/Java/Kotlin/Bash) ([x-ing.space/koipond](https://x-ing.space/koipond))
 
-2018–2021: Co-captain and programmer for the FTC 15303 robotics team.(Java/Kotlin)
+2018–2021: Co-captain and programmer for the FTC 15303 robotics team. (Java/Kotlin)
 
 2019: Creator of FTC 15303’s website. (HTML/CSS/JavaScript) ([robotics.majorstem.org](https://robotics.majorstem.org))
 
