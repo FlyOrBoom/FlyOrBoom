@@ -38,7 +38,7 @@ I have been designing and programming websites and apps for over 3 years. I’ve
 - Node.js and Deno
 - Discord and Slack bots
 
-## Design
+### Design
 
 - Adobe Photoshop, Illustrator, Animate, and InDesign
 - InkScape, Krita, and Blender
