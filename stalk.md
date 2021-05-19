@@ -1,5 +1,6 @@
 [行](https://x-ing.space)
 [Chess.com](https://www.chess.com/member/xingyzt)
+[Email](mailto:liu@x-ing.space)
 [Facebook](https://facebook.com/xingyzt)
 [GitHub](https://github.com/FlyOrBoom)
 [HackerNews](https://news.ycombinator.com/user?id=xingyzt)
