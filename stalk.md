@@ -3,6 +3,7 @@
 [Email](mailto:liu@x-ing.space)
 [Facebook](https://facebook.com/xingyzt)
 [GitHub](https://github.com/FlyOrBoom)
+[GoogleMaps](https://www.google.com/maps/contrib/112859855368984428647)
 [HackerNews](https://news.ycombinator.com/user?id=xingyzt)
 [IMAGINARY](https://imaginary.org/users/xing-liu)
 [Instagram](https://www.instagram.com/xingyzt)
