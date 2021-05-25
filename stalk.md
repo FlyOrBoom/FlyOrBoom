@@ -10,5 +10,6 @@
 [Lidraughts](https://lidraughts.org/@/xingyzt)
 [Reddit](https://www.reddit.com/user/xingyzt)
 [Twitter](https://twitter.com/xingyzt)
+[Vimeo](https://vimeo.com/xingyzt)
 [Wikipedia](https://en.wikipedia.org/wiki/User:Xingyzt)
 [YouTube](https://www.youtube.com/channel/UCnPXZDvSx0KMJWDdGqLah6A)
