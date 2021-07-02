@@ -1,0 +1,38 @@
+ahs.app
+amazon.com
+archive.org
+blender.org, blender.community
+bf-committers@blender.org
+campbrainregistration.com
+cengage.com, cengagebrain.com
+chess.com
+collegeboard.org
+discord.com
+economist.com
+facebook.com
+firefox.com, mozilla.org
+github.com
+google.com, youtube.com
+hackerrank.com
+heroku.com
+instagram.com
+khanacademy.org
+lichess.org
+microsoft.com, live.com
+myschoolcentral.com
+nytimes.com
+onshape.com
+opendns.org
+quantamagazine.org	
+raiseme.com, raise.me
+reddit.com
+routerlogin.com
+scioly.org
+shadertoy.com
+turbosquid.com
+twitter.com
+unity.com
+vimeo.com
+wikipedia.org, wikimedia.org
+xyztproductions@gmail.com
+ycombinator.com
