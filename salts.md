@@ -11,6 +11,7 @@ discord.com
 economist.com
 facebook.com
 firefox.com, mozilla.org
+gillmeister-software.com
 github.com
 google.com, youtube.com
 hackerrank.com
