@@ -29,11 +29,14 @@ raiseme.com, raise.me
 reddit.com
 routerlogin.com
 scioly.org
+sculpteo.com
 shadertoy.com
+shapeways.com
 turbosquid.com
 twitter.com
 unity.com
 vimeo.com
+washingtonpost.com
 wikipedia.org, wikimedia.org
 xyztproductions@gmail.com
 ycombinator.com
