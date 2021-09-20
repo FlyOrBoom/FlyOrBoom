@@ -17,10 +17,12 @@ google.com, youtube.com
 hackerrank.com
 heroku.com
 instagram.com
+instructure.com
 khanacademy.org
 lichess.org
 microsoft.com, live.com
 myschoolcentral.com
+mypltw.org, pltw.org
 nytimes.com
 onshape.com
 opendns.org
