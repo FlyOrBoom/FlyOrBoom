@@ -16,8 +16,17 @@ call vundle#begin()
         Plugin 'Valloric/YouCompleteMe'
         Plugin 'isruslan/vim-es6'
         Plugin 'airblade/vim-gitgutter'
+        Plugin 'vim-autoformat/vim-autoformat'
+        Plugin 'tikhomirov/vim-glsl'
+        Plugin 'preservim/nerdcommenter'
+        Plugin 'vimsence/vimsence'
 call vundle#end()
+
+" Indentation
 filetype plugin indent on
+
+" GLSL for VS and FS
+autocmd! BufNewFile,BufRead *.vs,*.fs set ft=glsl
 
 " Line numbering
 set nu
