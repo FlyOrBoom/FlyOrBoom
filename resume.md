@@ -38,6 +38,10 @@ I also have over 40 hours of experience tutoring math, physics, and programming 
 
 2020: Lead graphics programmer and designer for [Koidoro](https://x-ing.space/koipond), a studying app centered around kois in a pond. (WebGL/Java/Kotlin/Bash)
 
+2020: Peer and Outreach tutor at Arcadia High School.
+
+2020: Math mentor at First Avenue Middle School.
+
 2019: Creator of FTC 15303’s [website](https://robotics.majorstem.org). (Web)
 
 2019: Creator of a [Mercury-Redstone rocket simulation](https://x-ing.space/mercury-redstone). (Web) (unfinished)
