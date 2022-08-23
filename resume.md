@@ -1,6 +1,6 @@
 # Xing Liu
 
-Freelance web developer & graphic designer; Math, physics, and programming tutor
+Freelance web developer & graphic designer. Also math, physics, and programming tutor.
 
 I have been designing and programming websites and apps for over 4 years now, creating and maintaining over thirty web projects, both professionally and for fun.
 
@@ -64,9 +64,10 @@ I also have over 40 hours of experience tutoring math, physics, and programming 
 
 - 1st place at 2022 National Science Bowl JPL Regionals
 - 2nd place in Wifi Lab at 2022 Science Olympiad SoCal States
-- Platinum (perfect score) at 2022 Grand Concours Level 2 French exam
 - 2022 USA Physics Olympiad qualifier
 - 2nd place in Cybersecurity at 2021 Science Olympiad SoCal Regionals
+- Platinum (perfect score) at 2022 Grand Concours Level 2 French exam
+- 4.0 GPA, 1590 SAT, 5s on APENG, APUSH, AP Chem, AP Calc BC, and both AP Physics C exams
 
 ## Hobbies
 
