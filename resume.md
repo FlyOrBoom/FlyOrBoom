@@ -1,10 +1,10 @@
 # Xing Liu
 
-Freelance web developer & graphic designer. Also math, physics, and programming tutor.
+Freelance web developer & graphic designer; Math, physics, and programming tutor.
 
-I have been designing and programming websites and apps for over 4 years now, creating and maintaining over thirty web projects, both professionally and for fun.
+I have been designing and programming websites and apps for over 4 years now, creating and maintaining over 30 web projects, both professionally and for fun.
 
-I also have over 40 hours of experience tutoring math, physics, and programming one-on-one. As president of my school's Astrophysics Club and an officer in its Physics Team, I have also taught dozens of astronomy and physics lessons in front of the classroom.
+I have done over 40 hours of one-on-one tutoring on math, physics, and programming. As president of my school's Astrophysics Club and an officer in its Physics Team, I have also taught dozens of astronomy and physics lessons in front of classrooms full of my peers.
 
 ## Experience
 
