@@ -20,7 +20,7 @@ I also have over 40 hours of experience tutoring math, physics, and programming 
 
 2018–present: Co-captain, programmer, and designer for the FTC 15303 robotics team. (Java/Kotlin/OnShape/Blender)
 
-2022: Co-lead two 2-week FTC robotics summer camps, teaching underclassmen competitive robot design.
+2022: Taught at two 2-week FTC robotics summer camps on competitive robot design.
 
 2022: Tutored over 30 hours of robotics programming, web development, and high school math.
 
