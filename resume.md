@@ -8,13 +8,15 @@ I also have over 40 hours of experience tutoring math, physics, and programming 
 
 ## Experience
 
-2022–present: President and lead lecturer of Arcadia High's Astrophysics Club.
+2022–present: President and lead lecturer of Arcadia Astrophysics Club.
 
-2022–present: Captain of Arcadia High's Science Bowl Team.
+2022–present: Captain of Arcadia Science Bowl.
 
-2022–present: Secretary of Arcadia High's Physics Team.
+2022–present: Secretary of Arcadia Physics Team.
 
-2020–present: Lead developer of [Aces](https://edit.ahs.app), a content management system for Arcadia High School's mobile app and news feed. (HTML/CSS/JavaScript/Bash/Firebase)
+2022–present: Creator of [AHS in 3D](https://map.ahs.app), a real-time raymarched 3D voxel map of Arcadia High School. (WebGL/Firebase)
+
+2020–present: Creator of [Aces](https://edit.ahs.app), a content management system for Arcadia High School's mobile app and news feed. (HTML/CSS/JavaScript/Bash/Firebase)
 
 2019–present: Creator of [ahs.app](https://ahs.app), a news reader and toolset for Arcadia High School students. (HTML/CSS/JavaScript/Bash/Jq/Firebase/Apache)
 
@@ -64,9 +66,12 @@ I also have over 40 hours of experience tutoring math, physics, and programming 
 
 - 1st place at 2022 National Science Bowl JPL Regionals
 - 2nd place in Wifi Lab at 2022 Science Olympiad SoCal States
+- 1st place in Astronomy at 2022 Science Olympiad SoCal Regionals
 - 2022 USA Physics Olympiad qualifier
-- 2nd place in Cybersecurity at 2021 Science Olympiad SoCal Regionals
+- 3rd place at 2022 MIT Science Bowl Invitational
 - Platinum (perfect score) at 2022 Grand Concours Level 2 French exam
+- 2nd place in Cybersecurity at 2021 Science Olympiad SoCal Regionals
+- 2019 FTC Robotics SoCal Interleague Tournament qualifier
 - 4.0 GPA, 1590 SAT, 5s on APENG, APUSH, AP Chem, AP Calc BC, and both AP Physics C exams
 
 ## Hobbies
