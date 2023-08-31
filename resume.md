@@ -1,6 +1,6 @@
 # Xing Liu
 
-Freelance web developer & graphic designer; Math, physics, and programming tutor.
+Astrophysics student; Freelance web developer & graphic designer; Math, physics, and programming tutor.
 
 I have been designing and programming websites and apps for over 4 years now, creating and maintaining over 30 web projects, both professionally and for fun.
 
